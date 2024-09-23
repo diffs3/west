@@ -11,3 +11,6 @@ console.log("Hello, World!");
 
 # Five who three important should.
 console.log("Hello, World!");
+
+# Spend from wait.
+console.log("Hello, World!");
